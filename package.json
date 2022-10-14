@@ -1,0 +1,22 @@
+{
+    "name": "lemoncode-css-basic-4",
+    "version": "1.0.0",
+    "description": "Diseño de card con CSS Grid.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/josecarlosalar/Lemoncode-Css-Basic-4.git"
+    },
+    "author": "José Carlos Alarcón Murillo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/josecarlosalar/Lemoncode-Css-Basic-4/issues"
+    },
+    "homepage": "https://github.com/josecarlosalar/Lemoncode-Css-Basic-4#readme",
+    "devDependencies": {
+        "sass": "^1.55.0"
+    }
+}
